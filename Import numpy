@@ -1,0 +1,5 @@
+import numpy as np
+
+a = ("numpy imported")
+print (a)
+
